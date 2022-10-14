@@ -379,6 +379,7 @@
 "Assets/02.Scripts/PlatformSpawner.cs"
 "Assets/02.Scripts/PlayerController.cs"
 "Assets/02.Scripts/ScrollingOdject.cs"
+"Assets/02.Scripts/UIMethod.cs"
 -langversion:9.0
 
 /deterministic
